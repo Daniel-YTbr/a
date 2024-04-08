@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: black;
+}
+
+#cameraElement {
+  background: gray;
+  border-right: 1px solid white;
+  min-height: 100dvh;
+  max-height: 100dvh;
+  min-width: 100%;
+  max-width: 100%;
+}
